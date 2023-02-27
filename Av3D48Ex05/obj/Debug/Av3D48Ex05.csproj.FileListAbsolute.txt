@@ -1,0 +1,11 @@
+D:\VsStudio\Projetos-Atividades\Av3D48Ex05\bin\Debug\Av3D48Ex05.exe.config
+D:\VsStudio\Projetos-Atividades\Av3D48Ex05\bin\Debug\Av3D48Ex05.exe
+D:\VsStudio\Projetos-Atividades\Av3D48Ex05\bin\Debug\Av3D48Ex05.pdb
+D:\VsStudio\Projetos-Atividades\Av3D48Ex05\obj\Debug\Av3D48Ex05.csproj.AssemblyReference.cache
+D:\VsStudio\Projetos-Atividades\Av3D48Ex05\obj\Debug\Av3D48Ex05.csproj.SuggestedBindingRedirects.cache
+D:\VsStudio\Projetos-Atividades\Av3D48Ex05\obj\Debug\Av3D48Ex05.Form1.resources
+D:\VsStudio\Projetos-Atividades\Av3D48Ex05\obj\Debug\Av3D48Ex05.Properties.Resources.resources
+D:\VsStudio\Projetos-Atividades\Av3D48Ex05\obj\Debug\Av3D48Ex05.csproj.GenerateResource.cache
+D:\VsStudio\Projetos-Atividades\Av3D48Ex05\obj\Debug\Av3D48Ex05.csproj.CoreCompileInputs.cache
+D:\VsStudio\Projetos-Atividades\Av3D48Ex05\obj\Debug\Av3D48Ex05.exe
+D:\VsStudio\Projetos-Atividades\Av3D48Ex05\obj\Debug\Av3D48Ex05.pdb
