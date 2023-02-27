@@ -1,0 +1,11 @@
+H:\POO\Av3D48Ex01\bin\Debug\Av3D48Ex01.exe.config
+H:\POO\Av3D48Ex01\bin\Debug\Av3D48Ex01.exe
+H:\POO\Av3D48Ex01\bin\Debug\Av3D48Ex01.pdb
+H:\POO\Av3D48Ex01\obj\Debug\Av3D48Ex01.csproj.AssemblyReference.cache
+H:\POO\Av3D48Ex01\obj\Debug\Av3D48Ex01.csproj.SuggestedBindingRedirects.cache
+H:\POO\Av3D48Ex01\obj\Debug\Av3D48Ex01.Form1.resources
+H:\POO\Av3D48Ex01\obj\Debug\Av3D48Ex01.Properties.Resources.resources
+H:\POO\Av3D48Ex01\obj\Debug\Av3D48Ex01.csproj.GenerateResource.cache
+H:\POO\Av3D48Ex01\obj\Debug\Av3D48Ex01.csproj.CoreCompileInputs.cache
+H:\POO\Av3D48Ex01\obj\Debug\Av3D48Ex01.exe
+H:\POO\Av3D48Ex01\obj\Debug\Av3D48Ex01.pdb
