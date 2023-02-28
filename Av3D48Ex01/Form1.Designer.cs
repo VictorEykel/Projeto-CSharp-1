@@ -28,42 +28,42 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.label1 = new System.Windows.Forms.Label();
-            this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
+            this.lblHoras = new System.Windows.Forms.Label();
+            this.lblMinutos = new System.Windows.Forms.Label();
+            this.lblSegundos = new System.Windows.Forms.Label();
             this.txtH = new System.Windows.Forms.TextBox();
             this.txtM = new System.Windows.Forms.TextBox();
             this.txtS = new System.Windows.Forms.TextBox();
             this.lblSeg = new System.Windows.Forms.Label();
-            this.btntransform = new System.Windows.Forms.Button();
+            this.btnTransform = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // label1
+            // lblHoras
             // 
-            this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(99, 79);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(75, 13);
-            this.label1.TabIndex = 0;
-            this.label1.Text = "digite as horas";
+            this.lblHoras.AutoSize = true;
+            this.lblHoras.Location = new System.Drawing.Point(99, 79);
+            this.lblHoras.Name = "lblHoras";
+            this.lblHoras.Size = new System.Drawing.Size(75, 13);
+            this.lblHoras.TabIndex = 0;
+            this.lblHoras.Text = "digite as horas";
             // 
-            // label2
+            // lblMinutos
             // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(99, 173);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(88, 13);
-            this.label2.TabIndex = 1;
-            this.label2.Text = "digite os minutos ";
+            this.lblMinutos.AutoSize = true;
+            this.lblMinutos.Location = new System.Drawing.Point(99, 173);
+            this.lblMinutos.Name = "lblMinutos";
+            this.lblMinutos.Size = new System.Drawing.Size(88, 13);
+            this.lblMinutos.TabIndex = 1;
+            this.lblMinutos.Text = "digite os minutos ";
             // 
-            // label3
+            // lblSegundos
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(99, 267);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(95, 13);
-            this.label3.TabIndex = 2;
-            this.label3.Text = "digite os segundos";
+            this.lblSegundos.AutoSize = true;
+            this.lblSegundos.Location = new System.Drawing.Point(99, 267);
+            this.lblSegundos.Name = "lblSegundos";
+            this.lblSegundos.Size = new System.Drawing.Size(95, 13);
+            this.lblSegundos.TabIndex = 2;
+            this.lblSegundos.Text = "digite os segundos";
             // 
             // txtH
             // 
@@ -98,29 +98,29 @@
             this.lblSeg.TabIndex = 8;
             this.lblSeg.Text = "000";
             // 
-            // btntransform
+            // btnTransform
             // 
-            this.btntransform.Location = new System.Drawing.Point(321, 280);
-            this.btntransform.Name = "btntransform";
-            this.btntransform.Size = new System.Drawing.Size(75, 23);
-            this.btntransform.TabIndex = 11;
-            this.btntransform.Text = "slk";
-            this.btntransform.UseVisualStyleBackColor = true;
-            this.btntransform.Click += new System.EventHandler(this.btntransform_Click);
+            this.btnTransform.Location = new System.Drawing.Point(286, 267);
+            this.btnTransform.Name = "btnTransform";
+            this.btnTransform.Size = new System.Drawing.Size(101, 52);
+            this.btnTransform.TabIndex = 11;
+            this.btnTransform.Text = "Tranformar em Segundos";
+            this.btnTransform.UseVisualStyleBackColor = true;
+            this.btnTransform.Click += new System.EventHandler(this.btntransform_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(460, 406);
-            this.Controls.Add(this.btntransform);
+            this.Controls.Add(this.btnTransform);
             this.Controls.Add(this.lblSeg);
             this.Controls.Add(this.txtS);
             this.Controls.Add(this.txtM);
             this.Controls.Add(this.txtH);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
-            this.Controls.Add(this.label1);
+            this.Controls.Add(this.lblSegundos);
+            this.Controls.Add(this.lblMinutos);
+            this.Controls.Add(this.lblHoras);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
@@ -131,14 +131,14 @@
 
         #endregion
 
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Label label2;
-        private System.Windows.Forms.Label label3;
+        private System.Windows.Forms.Label lblHoras;
+        private System.Windows.Forms.Label lblMinutos;
+        private System.Windows.Forms.Label lblSegundos;
         private System.Windows.Forms.TextBox txtH;
         private System.Windows.Forms.TextBox txtM;
         private System.Windows.Forms.TextBox txtS;
         private System.Windows.Forms.Label lblSeg;
-        private System.Windows.Forms.Button btntransform;
+        private System.Windows.Forms.Button btnTransform;
     }
 }
 
